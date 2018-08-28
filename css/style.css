@@ -232,6 +232,7 @@ header .intro-text {
 }
 #services img {
 	width: 300px;
+	height: 200px;
 	border-radius: 75px 0 75px 0;
 	box-shadow: 15px 0 #a7c44c;
 }
