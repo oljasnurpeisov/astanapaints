@@ -101,14 +101,14 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 #menu a.navbar-brand {
 	font-size: 22px;
-	color: #eee;
+	color: #c2ff00;
 	font-weight: 400;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 }
 #menu.navbar-default .navbar-nav > li > a {
 	text-transform: uppercase;
-	color: #a7c44c;
+	color: #c2ff00;
 	font-weight: 400;
 	font-size: 15px;
 	padding: 5px 0;
@@ -171,10 +171,11 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
+	background-position: 50% 17%;
 	-o-background-size: cover;
 }
 .intro .overlay {
-	background: rgba(0,0,0,0.40);
+	background: rgba(0,0,0,0.10);
 }
 .intro h1 {
 	color: #fff;
