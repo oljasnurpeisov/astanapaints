@@ -387,7 +387,8 @@ ol.type li a:hover {
 /* Contact Section */
 #contact {
 	padding: 120px 0 60px 0;
-	background: #F6F6F6;
+	background: #fff;
+	border-top: 1px solid #a0ce1f;
 }
 #contact form {
 	padding: 30px 0;
@@ -448,13 +449,14 @@ color: #777;
 }
 #contact .contact-item span {
 	font-weight: 400;
-	color: #aaa;
+	color: #a7c44c;
 	text-transform: uppercase;
 	margin-bottom: 6px;
 	display: inline-block;
+	font-size: 19px;
 }
 #contact .contact-item p {
-	font-size: 16px;
+	font-size: 19px;
 }
 /* Footer Section*/
 #footer {
