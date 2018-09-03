@@ -472,14 +472,24 @@ color: #777;
 	display: inline-block;
 	margin: 0 20px;
 }
-#footer .social i.fa {
+ .social i.fa {
 	font-size: 26px;
 	padding: 4px;
 	color: #a7c44c;
 	transition: all 0.3s;
 }
-#footer .social i.fa:hover {
+.social i.fa:hover {
 	color: #eee;
+}
+.social .fa {
+	float: left;
+	margin-right: 10px;
+}
+.social a {
+	color: #868686;
+}
+.social {
+	padding-top: 10px;
 }
 #footer p {
 	font-size: 15px;
